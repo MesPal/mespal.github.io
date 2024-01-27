@@ -1,1 +1,1 @@
-# mespal.github.io
+# MesPal Oy
